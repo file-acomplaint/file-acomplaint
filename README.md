@@ -1,6 +1,6 @@
 ### About the Developer
 
-I have a little professional experience with Python and C#, but this Github account is for personal stuff done purely for fun. I like silly CLI applications, interdisciplinary software development, quantitative finance and learning languages. Feel free to reach out!
+I have a little professional experience with Python and C#, but this Github account is for personal projects done purely for fun. I like silly CLI applications, interdisciplinary software development, quantitative finance and learning languages. Feel free to reach out or contribute!
 
 ---
 
