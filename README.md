@@ -1,6 +1,6 @@
 ### About the Developer
 
-Hello and welcome to my Github page. I have a little professional experience with Python and C#, but this Github account is for personal projects done purely for fun. I like silly CLI applications, interdisciplinary software development, quantitative finance, learning languages and simulating things. Feel free to reach out or contribute!
+Hello and welcome to my Github page. I have a little professional experience with Python and C#, but this is for personal projects done purely for fun. I like silly CLI applications, interdisciplinary software development, quantitative finance, learning languages and simulating things. Feel free to reach out or contribute!
 
 ---
 
