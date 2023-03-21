@@ -10,7 +10,7 @@ For recommended repositories here on Github, see the pins. Here's a live star ch
 [![Star History Chart](https://api.star-history.com/svg?repos=file-acomplaint/kakikun,file-acomplaint/simuwaerm,file-acomplaint/GodoTeX,file-acomplaint/kyun&type=Date)](https://star-history.com/#file-acomplaint/kakikun&file-acomplaint/simuwaerm&file-acomplaint/GodoTeX&file-acomplaint/kyun&Date)
 
 From the ones not hosted here, the two most notable are:
-- A browser extention for Japanese pitch accent with about 3500 weekly users. Available for [Firefox](https://addons.mozilla.org/de/firefox/addon/pitcher/), [Chrome](https://addons.mozilla.org/de/firefox/addon/pitcher/), [Opera](https://addons.opera.com/de/extensions/details/jisho-pitcher/) and the one and only [Edge](https://microsoftedge.microsoft.com/addons/detail/jishopitcher/pkenagekmgcdcepnleflphmnpnnhfdpc).
+- A browser extention for Japanese pitch accent with about 3500 weekly users. Available for [Firefox](https://addons.mozilla.org/de/firefox/addon/pitcher/), [Chrome](https://chrome.google.com/webstore/detail/jisho-pitcher/fgnpplmalkhmcilpgbngpmdgfnodknce), [Opera](https://addons.opera.com/de/extensions/details/jisho-pitcher/) and the one and only [Edge](https://microsoftedge.microsoft.com/addons/detail/jishopitcher/pkenagekmgcdcepnleflphmnpnnhfdpc).
 
 ![pitcher](https://user-images.githubusercontent.com/42694673/199360769-e917fe7a-d1d3-4e49-96f8-a2684ed42e1d.png)
 
